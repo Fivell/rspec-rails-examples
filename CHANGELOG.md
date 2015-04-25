@@ -1,3 +1,6 @@
+# 25/Apr/2015
+- Introduce Continuous Integration to the project with Travis CI 
+
 # 22/Apr/2015
 - Enable Spring for RSpec https://github.com/eliotsykes/rspec-rails-examples/pull/50 (Andy Waite)
 - Order Gemfile alphabetically https://github.com/eliotsykes/rspec-rails-examples/pull/49 (Andy Waite)
